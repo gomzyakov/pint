@@ -18,15 +18,5 @@
     "require": {
         "php": "^7.4 || ^8.0",
         "ext-json": "*"
-    },
-    "autoload": {
-        "psr-4": {
-            "Gomzyakov\\Pint\\": "./"
-        }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "Tests\\": "tests/"
-        }
     }
 }
