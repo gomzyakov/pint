@@ -20,7 +20,6 @@ composer require --dev laravel/pint gomzyakov/pint
 ./vendor/bin/pint --config vendor/gomzyakov/pint/pint.json
 ```
 
-
 ## Support
 
 If you find any package errors, please, [make an issue](https://github.com/gomzyakov/pint/issues) in current repository.
