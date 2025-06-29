@@ -1,0 +1,32 @@
+{
+    "name": "gomzyakov/pint",
+    "description": "Code style configuration for Laravel Pint.",
+    "type": "package",
+    "license": "MIT",
+    "keywords": [
+        "pint",
+        "laravel-pint",
+        "pint-config"
+    ],
+    "homepage": "https://github.com/gomzyakov/pint",
+    "authors": [
+        {
+            "name": "Alexander Gomzyakov",
+            "email": "alexander.gomzyakov@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4 || ^8.0",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Gomzyakov\\Pint\\": "./"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    }
+}

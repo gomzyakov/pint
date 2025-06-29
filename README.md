@@ -1,6 +1,8 @@
 # Code-style configuration for Laravel Pint
 
-## Quickstart with Laravel Pint
+This package allows sharing identical [Laravel Pint](https://laravel.com/docs/12.x/pint) formatting rules across all of your projects without copy-and-pasting configuration files.
+
+## Quickstart
 
 ### Step 1 of 2
 
@@ -21,8 +23,8 @@ composer require --dev laravel/pint gomzyakov/pint
 
 ## Support
 
-If you find any package errors, please, [make an issue](https://github.com/gomzyakov/php-code-style/issues) in current repository.
+If you find any package errors, please, [make an issue](https://github.com/gomzyakov/pint/issues) in current repository.
 
 ## License
 
-This is open-sourced software licensed under the [MIT License](https://github.com/gomzyakov/php-code-style/blob/main/LICENSE).
+This is open-sourced software licensed under the [MIT License](https://github.com/gomzyakov/pint/blob/main/LICENSE).
