@@ -24,7 +24,9 @@
         "concat_space": {
             "spacing": "one"
         },
-        "declare_equal_normalize": true,
+        "declare_equal_normalize": {
+            "space": "single"
+        },
         "encoding": true,
         "function_typehint_space": true,
         "include": true,
