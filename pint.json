@@ -6,8 +6,8 @@
         "binary_operator_spaces": {
             "default": "align_single_space_minimal",
             "operators": {
-                "=": "align_single_space",
-                "=>": "align_single_space"
+                "=": "align",
+                "=>": "align"
             }
         },
         "blank_lines_before_namespace": {
