@@ -1,5 +1,8 @@
 # Code-style configuration for Laravel Pint
 
+> [!CAUTION]
+> This package is abandoned and no longer maintained. The author suggests using the [gomzyakov/code-style](https://github.com/gomzyakov/code-style) package instead.
+> 
 This package allows sharing identical [Laravel Pint](https://laravel.com/docs/12.x/pint) formatting rules across all of your projects without copy-and-pasting configuration files.
 
 ## Quickstart
